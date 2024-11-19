@@ -56,8 +56,8 @@ Socket programming finds applications in various domains, including web developm
 ## PROGRAM:
 ### CLIENT:
 ```
-NAME:OVIYA P
-REG NO:212223110033
+NAME:KAVYA T
+REG NO:2305003004
 import socket
 from datetime import datetime
 s=socket.socket()
