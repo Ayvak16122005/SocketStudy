@@ -1,4 +1,4 @@
-# Ex.No:1a  			Study of Socket Programming
+# Ex.No:2 .STUDY OF SOCKET PROGRAMMING AND CLIENT – SERVER MODE
 
 ## Aim: 
 To perform a study on Socket Programming
